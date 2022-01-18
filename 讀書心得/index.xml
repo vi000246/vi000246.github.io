@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Yich的廢文百寶箱</title>
-    <link>http://vi000246.github.io/</link>
-    <description>Recent content on Yich的廢文百寶箱</description>
+    <title>讀書心得s on Yich的廢文百寶箱</title>
+    <link>http://vi000246.github.io/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97/</link>
+    <description>Recent content in 讀書心得s on Yich的廢文百寶箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jan 2022 16:07:25 +0800</lastBuildDate><atom:link href="http://vi000246.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>http://vi000246.github.io/test/</link>
-      <pubDate>Tue, 18 Jan 2022 16:14:23 +0800</pubDate>
-      
-      <guid>http://vi000246.github.io/test/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 18 Jan 2022 16:07:25 +0800</lastBuildDate><atom:link href="http://vi000246.github.io/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>http://vi000246.github.io/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97/my-first-post/</link>
