@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://vi000246.github.io/categories/</loc>
+    <lastmod>2022-01-18T17:45:34+08:00</lastmod>
+  </url><url>
     <loc>http://vi000246.github.io/</loc>
     <lastmod>2022-01-18T17:45:34+08:00</lastmod>
   </url><url>
@@ -14,10 +17,19 @@
     <loc>http://vi000246.github.io/%E5%81%B4%E9%82%8A%E9%81%B8%E5%96%AE/</loc>
     <lastmod>2022-01-18T17:45:34+08:00</lastmod>
   </url><url>
+    <loc>http://vi000246.github.io/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97/firstbook/</loc>
+    <lastmod>2022-01-18T17:45:34+08:00</lastmod>
+  </url><url>
+    <loc>http://vi000246.github.io/categories/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2022-01-18T17:45:34+08:00</lastmod>
+  </url><url>
+    <loc>http://vi000246.github.io/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2022-01-18T17:45:34+08:00</lastmod>
+  </url><url>
     <loc>http://vi000246.github.io/%E4%B8%BB%E9%81%B8%E5%96%AE/about/</loc>
     <lastmod>2022-01-18T17:45:34+08:00</lastmod>
   </url><url>
-    <loc>http://vi000246.github.io/categories/</loc>
+    <loc>http://vi000246.github.io/books/</loc>
   </url><url>
     <loc>http://vi000246.github.io/tags/</loc>
   </url>
