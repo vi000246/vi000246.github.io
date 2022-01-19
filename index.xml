@@ -5,33 +5,24 @@
     <link>http://vi000246.github.io/</link>
     <description>Recent content on Yich的廢文百寶箱</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-tw</language>
     <lastBuildDate>Tue, 18 Jan 2022 17:45:34 +0800</lastBuildDate><atom:link href="http://vi000246.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>主選單</title>
-      <link>http://vi000246.github.io/post/mainmenu/</link>
+      <title>側邊選單</title>
+      <link>http://vi000246.github.io/%E5%81%B4%E9%82%8A%E9%81%B8%E5%96%AE/side/</link>
       <pubDate>Tue, 18 Jan 2022 17:45:34 +0800</pubDate>
       
-      <guid>http://vi000246.github.io/post/mainmenu/</guid>
-      <description></description>
+      <guid>http://vi000246.github.io/%E5%81%B4%E9%82%8A%E9%81%B8%E5%96%AE/side/</guid>
+      <description>我是側邊選單</description>
     </item>
     
     <item>
-      <title>FirstBook</title>
-      <link>http://vi000246.github.io/reading/firstbook/</link>
-      <pubDate>Tue, 18 Jan 2022 17:28:08 +0800</pubDate>
+      <title>關於我</title>
+      <link>http://vi000246.github.io/%E4%B8%BB%E9%81%B8%E5%96%AE/about/</link>
+      <pubDate>Tue, 18 Jan 2022 17:45:34 +0800</pubDate>
       
-      <guid>http://vi000246.github.io/reading/firstbook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>http://vi000246.github.io/post/test/</link>
-      <pubDate>Tue, 18 Jan 2022 17:09:26 +0800</pubDate>
-      
-      <guid>http://vi000246.github.io/post/test/</guid>
-      <description></description>
+      <guid>http://vi000246.github.io/%E4%B8%BB%E9%81%B8%E5%96%AE/about/</guid>
+      <description>大家好</description>
     </item>
     
   </channel>
